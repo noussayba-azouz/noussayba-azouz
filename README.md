@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @noussayba-azouz
-- 👀 I’m interested in Software Development
-- 🌱 I’m a full stack developer (Angular-SpringBoot)
-- 💞️ I’m looking to collaborate on new Java projects and I am searching for freelance opportunities
-- 📫 I can be reached via email azouz.noussayba@gmail.com or by cell phone on +216 92265197
+- 👋 Hi, I’m @noussayba-azouz  
+- 🎯 I'm passionate about using AI and Data Science to solve real-world problems, especially in industry and supply chain  
+- 📊 I specialize in Power BI, Machine Learning, and data analysis from ERP (Sage X3) and CMMS (Coswin) systems  
+- 🤝 I’m open to freelance opportunities and collaborations in any sector — with a particular interest in industrial, manufacturing, and supply chain applications  
+- 🎓 I hold a Master’s in AI & Robotics, and recently completed a demand forecasting project for a pharmaceutical manufacturer  
+- 📫 You can reach me at azouz.noussayba@gmail.com or on WhatsApp at +216 92265197  
 
 <!---
 noussayba-azouz/noussayba-azouz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
